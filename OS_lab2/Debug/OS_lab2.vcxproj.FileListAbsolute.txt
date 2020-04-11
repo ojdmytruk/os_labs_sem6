@@ -1,0 +1,2 @@
+C:\Users\Dell\source\repos\OS_lab2\Debug\OS_lab2.exe
+C:\Users\Dell\source\repos\OS_lab2\Debug\OS_lab2.pdb

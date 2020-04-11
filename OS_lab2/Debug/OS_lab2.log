@@ -1,0 +1,7 @@
+﻿  OS_lab2.cpp
+  PageAllocator.cpp
+C:\Users\Dell\source\repos\OS_lab2\PageAllocator.cpp(17,63): error C2440: =: невозможно преобразовать "LPVOID" в "char *"
+C:\Users\Dell\source\repos\OS_lab2\PageAllocator.cpp(17,21): message : Для преобразования "void*" к указателю на тип, не являющемуся "void", требуется явное приведение
+C:\Users\Dell\source\repos\OS_lab2\PageAllocator.cpp(25,29): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dell\source\repos\OS_lab2\PageAllocator.cpp(35,13): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
