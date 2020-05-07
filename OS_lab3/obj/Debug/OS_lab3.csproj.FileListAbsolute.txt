@@ -1,0 +1,8 @@
+C:\Users\Dell\source\repos\OS_lab3\obj\Debug\OS_lab3.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\OS_lab3\obj\Debug\OS_lab3.Plots.resources
+C:\Users\Dell\source\repos\OS_lab3\obj\Debug\OS_lab3.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\OS_lab3\obj\Debug\OS_lab3.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\OS_lab3\bin\Debug\OS_lab3.dll
+C:\Users\Dell\source\repos\OS_lab3\bin\Debug\OS_lab3.pdb
+C:\Users\Dell\source\repos\OS_lab3\obj\Debug\OS_lab3.dll
+C:\Users\Dell\source\repos\OS_lab3\obj\Debug\OS_lab3.pdb
